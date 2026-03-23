@@ -10,7 +10,7 @@ This log tracks my daily progress through C++, foundational mathematics, and alg
 | Day | Date | Focus Area | Summary of Progress | Notes Path |Time Spent| Git|
  | :--- | :--- | :--- | :--- | :--- | :--- |  :--- | 
  | **Day 00** | *March 19th, 2026* |Chapter 1 - Setup| Set up the compiler; task.json, write first Hello World in Cpp. | [Notes](./01-Setup/NOTEME.md) |1:30|- [x] |
- | **Day 01** | *March 23th, 2026* |Chapter 2- Diving in| Cpp. | [Notes](./02-Diving/NOTEME.md) |1:30|- [ ] |
+ | **Day 01** | *March 23th, 2026* |Chapter 2- Diving in| First initialize on Github, Cpp. | [Notes](./02-Diving/NOTEME.md) |1:30|- [ ] |
 
 
 

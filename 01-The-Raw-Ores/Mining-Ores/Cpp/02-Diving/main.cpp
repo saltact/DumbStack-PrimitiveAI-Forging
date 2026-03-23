@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main () {
-    auto result = ( 10 <=>  20) > 0; //Spaceship operator to check complier support
-    std::cout << result << std::endl;
+    auto res = (10 <=> 20) >0;
+    std::cout << res <<std::endl;
 }

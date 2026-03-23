@@ -1,0 +1,67 @@
+# =========================
+# OS & IDE Specific Files
+# =========================
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# C++ / Compiled Files
+# =========================
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Build directories (Standard naming)
+build/
+bin/
+out/
+Release/
+Debug/
+
+# CMake specific
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# =========================
+# Python / AI Environment
+# =========================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env
+
+# Jupyter Notebooks (Crucial for AI later)
+.ipynb_checkpoints/
+
+# Package management
+pip-log.txt
+pip-delete-this-directory.txt
+
+# C extensions (if you start writing Python wrappers for your C++ code)
+*.so

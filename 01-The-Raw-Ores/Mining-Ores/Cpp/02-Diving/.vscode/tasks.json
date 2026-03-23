@@ -13,6 +13,7 @@
 				"/Fe:",
 				"${fileDirname}\\atlas.exe",
 				"${workspaceFolder}\\*.cpp",
+				
 			],
 			"options": {
 				"cwd": "${fileDirname}"
