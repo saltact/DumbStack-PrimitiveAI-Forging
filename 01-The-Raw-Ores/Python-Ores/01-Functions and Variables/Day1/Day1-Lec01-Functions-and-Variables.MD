@@ -78,18 +78,13 @@ In String, it's more like of a join or concatenation from the left String to rig
 	name = "gei";
 	print("Why are you " + name); #--> Need to adding space after the first string because it's different like the comma operators?
 ```
--  **3.  Str - String:**
+
 
 ## New Major Keywords
 * Interpreter(n): software executing ran from top to bottom, left and right on the source code and convert it into binary for the computer to understand.
 * Albeit(conjunction): even though, although, etc.
 * Aesthetic(adj)
 * Succinctly(adv): in a brief or cleanly expressed manner
-## 🧮 Math & Logic Connection
-
-*(Use this space to translate mathematical concepts—like a probability formula—into algorithmic logic, or simply to note the theoretical foundation of what you are coding).*
-
-- Relevant logic or formula notes:
 
 ## 💻 Code Snippets
 
