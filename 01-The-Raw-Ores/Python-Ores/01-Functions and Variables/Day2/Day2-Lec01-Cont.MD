@@ -2,9 +2,9 @@
 # 🐍 Python Concept: [Day 02 - Functions and Variables Part 2]
   
 *This note is written with the help of [StackEdit](stackedit.io) and [EmojiCopy](emojicopy.com)*
-**Date:**  April 2nd, 2026 - [09:31-13:15]
+**Date:**  April 2nd, 2026 - [09:31-13:40]
 **Tags:**  `#python`, `#primitive-ai`, `#self-study`, `#cs50_2026`, `#harvard_university` `#edX` `#VSCode`
-**Time spent**:  *` hour and  minute`*
+**Time spent**:  *`2 hours, 52 minutes and 29 seconds`*
 **Course infos**: [Course | CS50's Introduction to Programming with Python | edX](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home?audit_mode=)
 **Track:** 
 - From: [01 - Functions and Variables in Python at 31:10](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@744dad66fcce478a92fb1073b3d373fa/block-v1:HarvardX+CS50P+Python+type@vertical+block@50897469e09545f29c4535c6ffb2c704)
@@ -151,23 +151,11 @@ main();
 chime(verb):
 cryptic(n):
 excerpt(n):
-## 🧮 Math & Logic Connection
 
-*(Use this space to translate mathematical concepts—like a probability formula—into algorithmic logic, or simply to note the theoretical foundation of what you are coding).*
+## ⏱️ Stopwatch Images
 
-- Relevant logic or formula notes:
+![Day 2 - Lecture 01(Cont,) Stopwatch Image](../assets/stopwatch/Python_day2-lecture01-stopwatch.png)
 
-## 💻 Code Snippets
-
-```py
-// Drop your isolated, working examples here to reference later
-#include  <iostream>
-int  main() {
-std::cout << "Forging the Dumb Stack..." << std::endl;
-return  0;
-}
-
-```
 ## 📋🎗️ Reminder/ To-do Task
 
 - Learn to read the documentation.
