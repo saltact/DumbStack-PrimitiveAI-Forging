@@ -2,10 +2,15 @@
 # 🐍 Python Concept: [Re:Day 1 & 2- Functions and Variables Part 1]
   
 *This note is written with the help of [StackEdit](stackedit.io) and [EmojiCopy](emojicopy.com)*
+
 **Date:**  April 7th, 2026 - [10:35-13:30]
+
 **Tags:**  `#python`, `#primitive-ai`, `#self-study`, `#cs50_2026`, `#harvard_university` `#edX` `#VSCode`
+
 **Time spent**:  *`1 hours, 54 minutes and 02 seconds`*
+
 **Course infos**: [Course | CS50's Introduction to Programming with Python | edX](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home?audit_mode=)
+
 **Track:** 
 - From: [Week 1 - Functions and Variables in Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@744dad66fcce478a92fb1073b3d373fa/block-v1:HarvardX+CS50P+Python+type@vertical+block@50897469e09545f29c4535c6ffb2c704)
 - To: [Week 1 - Shorts](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@744dad66fcce478a92fb1073b3d373fa/block-v1:HarvardX+CS50P+Python+type@vertical+block@085ac859b4024776ae5a5c49d9ba6dc9)
@@ -68,10 +73,8 @@ noDefaultValue();
 noDefaultValue('Gei');
 # Result will be 'Gei'
 ```
-- **3. Side Effects**
-- 
-***Global variables***
-- **4. Variables**
+
+- **3. Variables**
 > Variables are what you will use the most when programming so pay more attention to its documentation, attribute and etc.
 
 - Variables is what you gonna need to **store** value when programming.
