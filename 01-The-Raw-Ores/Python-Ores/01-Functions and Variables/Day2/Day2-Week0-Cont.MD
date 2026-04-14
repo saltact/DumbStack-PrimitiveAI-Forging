@@ -154,7 +154,7 @@ excerpt(n):
 
 ## ⏱️ Stopwatch Images
 
-![Day 2 - Lecture 01-Cont. Stopwatch Image](../../assets/stopwatch/Python_day2-lecture01-stopwatch.png)
+![Day 2 - Lecture 01-Cont. Stopwatch Image](../../assets/stopwatch/Python_day2-week0-stopwatch.png)
 
 ## 📋🎗️ Reminder/ To-do Task
 

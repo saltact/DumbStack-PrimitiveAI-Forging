@@ -98,7 +98,7 @@ y = xFunction(x);
 
 ## ⏱️ Stopwatch Images
 
-![Re - Day 1 - Week 1(Reset) Stopwatch Image](../../assets/stopwatch/Python_Re-Day01-Week01-stopwatch.png)
+![Re - Day 1 - Week 1(Reset) Stopwatch Image](../../assets/stopwatch/Python_Re-Day01-Week0-stopwatch.png)
 
 ## 📋🎗️ Reminder/ To-do Task
 
